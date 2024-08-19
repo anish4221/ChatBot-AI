@@ -1,1 +1,1 @@
-# ChatBot-AI
+This project is a Chatbot AI application built using the ChatGPT API and Gradio. The chatbot leverages the power of OpenAI's GPT technology to interact with users in natural language, providing responses that simulate human-like conversations. Gradio is used to create a user-friendly web interface for easy interaction with the chatbot.
